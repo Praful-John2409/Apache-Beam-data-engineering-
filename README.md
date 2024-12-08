@@ -35,6 +35,7 @@ This repository comprises three primary tasks, each focusing on different aspect
 2. **Automated EDA with Sweetviz**: This task automates the EDA process using Sweetviz, showcasing how we can quickly gain an understanding of the data's structure and relationships, using the *Black Friday* dataset.
 3. **Apache Beam Features**: A hands-on demonstration of various Apache Beam features, including composite transforms, pipeline I/O, triggers, windowing, ParDo, and streaming, all implemented in a Google Colab notebook.
 - **Colab Link**: Access all Colab notebooks from the shared Google Drive link [here](https://drive.google.com/drive/folders/1aLWV_Fa05_qkf67GlVBfvSiaQOpPD8EE?usp=sharing).
+- click [here](https://youtu.be/ayBprkc-cWM) for the Youtube video explaining all the artifacts.
 ## Detailed Task Descriptions
 
 ### 1. Advanced EDA Using D3.js
